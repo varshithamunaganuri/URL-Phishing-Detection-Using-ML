@@ -1,36 +1,39 @@
 URL-Phishing-Detection
 
 About the Project:
-URL Phishing Detection is a machine learning–based application designed to identify whether a given URL is legitimate or phishing. The system analyzes different characteristics of the URL, extracts key features, and predicts the safety of the link. It helps users identify malicious URLs and improves online safety through quick and accurate predictions.
+URL Phishing Detection is a machine-learning–based application designed to classify URLs as legitimate or phishing by analyzing URL characteristics and extracting key features. The system helps users identify unsafe links quickly and enhances online security.
 
 Features:
 • Detects whether a URL is phishing or legitimate
 • Extracts important URL-based features
-• Provides accuracy of prediction
+• Provides prediction accuracy
 • Simple and easy-to-run implementation
-• Supports user input for checking any custom URL
+• Supports user input for checking custom URLs
 
 Technologies Used:
-• Python
-• Machine Learning (URL feature classification model)
-• Feature Extraction Techniques
-• Flask or Streamlit (if a web interface is included)
+• Python 
+• Machine Learning (URL Classification Model)
+• Feature Extraction Techniques 
+• Flask or Streamlit for Web Interface
 
 Working Model:
-The system uses a pre-trained machine learning model that evaluates URL characteristics such as length, special symbols, use of IP address, and subdomains. These features help the model determine patterns associated with phishing URLs and return the prediction.
+The model evaluates features such as URL length, presence of suspicious characters, IP address usage, number of subdomains, and other phishing indicators. These features are processed by the trained model to classify the URL as safe or malicious.
 
 How to Run the Project:
-  1.Clone the repository
-  2.Navigate to the project directory
-  3.Install the required dependencies
-  4.Run the application
+.Download or clone the repository on your computer
+2.Navigate to the project folder in your IDE
+3.Install required libraries using the provided requirements file
+4.Run the application
+
+Model:
+A pre-trained machine learning model built using URL-based features is included in the project to perform classification without requiring any dataset.
 
 Future Improvements:
-• More advanced machine learning or deep learning models
-• Real-time URL scanning
-• Integration of webpage content analysis
+• Adding advanced ML or deep learning models
+• Real-time URL scanning support
+• Webpage content analysis in addition to URL features
 • Improved user interface
-• Option to retrain using additional datasets
+• Option to retrain the model using external datasets
 
 Contributing:
-Contributions are welcome. You may submit suggestions, improvements, or bug fixes through issues or pull requests.
+Contributions are welcome. You may submit improvements, suggestions, or fixes through issues or pull requests.
