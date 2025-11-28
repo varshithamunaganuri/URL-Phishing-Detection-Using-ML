@@ -1,3 +1,4 @@
+URL-Phishing-Detection
 About the Project:
 URL Phishing Detection is a machine learning–based application designed to identify whether a given URL is legitimate or phishing. The system analyzes different characteristics of the URL, extracts key features, and predicts the safety of the link. It helps users identify malicious URLs and improves online safety through quick and accurate predictions.
 
