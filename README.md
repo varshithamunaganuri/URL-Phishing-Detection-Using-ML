@@ -20,7 +20,7 @@ Working Model:
 The model evaluates features such as URL length, presence of suspicious characters, IP address usage, number of subdomains, and other phishing indicators. These features are processed by the trained model to classify the URL as safe or malicious.
 
 How to Run the Project:
-.Download or clone the repository on your computer
+1.Download or clone the repository on your computer
 2.Navigate to the project folder in your IDE
 3.Install required libraries using the provided requirements file
 4.Run the application
