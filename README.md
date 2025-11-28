@@ -20,10 +20,10 @@ Working Model:
 The system uses a pre-trained machine learning model that evaluates URL characteristics such as length, special symbols, use of IP address, and subdomains. These features help the model determine patterns associated with phishing URLs and return the prediction.
 
 How to Run the Project:
-• Clone the repository
-• Navigate to the project directory
-• Install the required dependencies
-• Run the application
+1.Clone the repository
+2.Navigate to the project directory
+3.Install the required dependencies
+4.Run the application
 
 Future Improvements:
 • More advanced machine learning or deep learning models
