@@ -37,3 +37,6 @@ A pre-trained machine learning model built using URL-based features is included 
 
 ## Contributing
 Contributions are welcome. You may submit improvements, suggestions, or fixes through issues or pull requests.
+
+## Contributors
+- **Varshita Munaganuri** – [LinkedIn](https://www.linkedin.com/in/varshita-munaganuri)
